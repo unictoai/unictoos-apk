@@ -29,6 +29,10 @@ https://raw.githubusercontent.com/Zenda-Cross/vega-providers/refs/heads/main/man
 
 Each release lists the APK's SHA-256 checksum. Only install APKs from this page or the official website.
 
+## For developers
+
+Want to build a content addon for unictoos? Read the **[Addon Developer Guide](ADDON_DEVELOPER_GUIDE.md)** — it covers both addon types (Stremio JSON and Vega modules), the exact formats, the ground rules, and a working example.
+
 ## License
 
 © 2026 unictoai. All rights reserved. The APK may be installed for personal, non-commercial use. The source code is proprietary and not published.
