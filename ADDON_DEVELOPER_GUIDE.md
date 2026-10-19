@@ -99,7 +99,7 @@ Any static HTTPS host works: GitHub Pages, Netlify, Cloudflare Pages, or a raw f
 
 ## 5. Option B: Vega provider
 
-A Vega provider is a manifest plus a set of CommonJS JavaScript modules. The app downloads the modules once, caches them on the device, and runs them inside a sandbox where the only superpower is `fetch` (proxied through the app, HTTPS enforced). Cached modules are deleted when the user uninstalls the addon.
+A Vega provider is a manifest plus a set of CommonJS JavaScript modules. The app downloads the modules once, caches them on the device, and runs them inside a sandbox where the only superpower is `fetch` (proxied through the app). Cached modules are deleted when the user uninstalls the addon.
 
 ### 5.1 Folder layout
 
