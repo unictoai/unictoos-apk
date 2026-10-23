@@ -1,5 +1,7 @@
 # unictoos — Android APK releases
 
+<p align="center"><img src="docs/logo.jpeg" alt="unictoos logo" width="160"></p>
+
 <p align="center"><b>Movies, shows & anime. All in one app.</b></p>
 
 This repository hosts **official unictoos APK downloads only**. It contains no source code.
