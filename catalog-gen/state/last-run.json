@@ -1,0 +1,35 @@
+{
+ "started": "2026-10-23T10:01:38.253936+00:00",
+ "sources": {
+  "netflix": {
+   "status": "ok",
+   "week": "2026-10-18",
+   "countries_week": "2026-10-18",
+   "country_used": "PK"
+  },
+  "motn": {
+   "status": "waiting-on-key"
+  },
+  "trakt": {
+   "status": "waiting-on-key"
+  }
+ },
+ "api_calls": {
+  "motn": 0,
+  "trakt": 0
+ },
+ "notes": [],
+ "finished": "2026-10-23T10:02:24.678652+00:00",
+ "catalogs": {
+  "movie/netflix-top10-global-movies": 9,
+  "series/netflix-top10-global-series": 6,
+  "movie/netflix-top10-pk-movies": 9,
+  "series/netflix-top10-pk-series": 5
+ },
+ "meta_files": 24,
+ "join": {
+  "attempted": 40,
+  "joined": 29,
+  "rate": 0.725
+ }
+}

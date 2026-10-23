@@ -1,0 +1,43 @@
+{
+ "id": "ai.unictoos.catalog",
+ "version": "1.0.0",
+ "name": "unictoos Charts",
+ "description": "Trending and Top 10 charts for movies and series. Catalog only — playback uses your own installed addons.",
+ "logo": "https://unictoai.github.io/unictoos-apk/logo.jpeg",
+ "resources": [
+  "catalog",
+  "meta"
+ ],
+ "types": [
+  "movie",
+  "series"
+ ],
+ "idPrefixes": [
+  "tt"
+ ],
+ "catalogs": [
+  {
+   "id": "netflix-top10-global-movies",
+   "type": "movie",
+   "name": "Netflix Top 10 — Global Movies"
+  },
+  {
+   "id": "netflix-top10-global-series",
+   "type": "series",
+   "name": "Netflix Top 10 — Global Series"
+  },
+  {
+   "id": "netflix-top10-pk-movies",
+   "type": "movie",
+   "name": "Netflix Top 10 — Pakistan Movies"
+  },
+  {
+   "id": "netflix-top10-pk-series",
+   "type": "series",
+   "name": "Netflix Top 10 — Pakistan Series"
+  }
+ ],
+ "behaviorHints": {
+  "configurable": false
+ }
+}

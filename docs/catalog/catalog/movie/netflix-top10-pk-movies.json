@@ -1,0 +1,108 @@
+{
+ "metas": [
+  {
+   "id": "tt31049299",
+   "type": "movie",
+   "name": "Animals",
+   "releaseInfo": "2026",
+   "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+   ],
+   "imdbRating": "5.7"
+  },
+  {
+   "id": "tt31170389",
+   "type": "movie",
+   "name": "Evil Dead Burn",
+   "releaseInfo": "2026",
+   "genres": [
+    "Horror"
+   ],
+   "imdbRating": "6.2"
+  },
+  {
+   "id": "tt1365519",
+   "type": "movie",
+   "name": "Tomb Raider",
+   "releaseInfo": "2018",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+   ],
+   "imdbRating": "6.3"
+  },
+  {
+   "id": "tt0892769",
+   "type": "movie",
+   "name": "How to Train Your Dragon",
+   "releaseInfo": "2010",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Animation"
+   ],
+   "imdbRating": "8.1"
+  },
+  {
+   "id": "tt6712014",
+   "type": "movie",
+   "name": "Fukrey Returns",
+   "releaseInfo": "2017",
+   "genres": [
+    "Comedy"
+   ],
+   "imdbRating": "6.5"
+  },
+  {
+   "id": "tt36596965",
+   "type": "movie",
+   "name": "Mandaadi",
+   "releaseInfo": "2026",
+   "genres": [
+    "Action",
+    "Drama",
+    "Sport"
+   ],
+   "imdbRating": "8.1"
+  },
+  {
+   "id": "tt27548557",
+   "type": "movie",
+   "name": "Dhamaal 4",
+   "releaseInfo": "2026",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+   ],
+   "imdbRating": "6.6"
+  },
+  {
+   "id": "tt37544992",
+   "type": "movie",
+   "name": "Baby Do Die Do",
+   "releaseInfo": "2026",
+   "genres": [
+    "Action",
+    "Comedy",
+    "Crime"
+   ],
+   "imdbRating": "5.9"
+  },
+  {
+   "id": "tt28443655",
+   "type": "movie",
+   "name": "Death of a Unicorn",
+   "releaseInfo": "2025",
+   "genres": [
+    "Comedy",
+    "Fantasy",
+    "Horror"
+   ],
+   "imdbRating": "5.8"
+  }
+ ]
+}

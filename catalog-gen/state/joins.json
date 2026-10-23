@@ -1,0 +1,272 @@
+{
+ "acid": {
+  "genres": "Drama,Sci-Fi",
+  "imdb": "tt17569526",
+  "kind": "m",
+  "name": "Acid",
+  "rating": 5.1,
+  "runtime_min": 99,
+  "votes": 3436,
+  "year": 2023
+ },
+ "animals": {
+  "genres": "Action,Crime,Drama",
+  "imdb": "tt31049299",
+  "kind": "m",
+  "name": "Animals",
+  "rating": 5.7,
+  "runtime_min": 106,
+  "votes": 24502,
+  "year": 2026
+ },
+ "anyone but you": {
+  "genres": "Comedy,Romance",
+  "imdb": "tt26047818",
+  "kind": "m",
+  "name": "Anyone But You",
+  "rating": 6.1,
+  "runtime_min": 103,
+  "votes": 181662,
+  "year": 2023
+ },
+ "baby do die do": {
+  "genres": "Action,Comedy,Crime",
+  "imdb": "tt37544992",
+  "kind": "m",
+  "name": "Baby Do Die Do",
+  "rating": 5.9,
+  "runtime_min": 125,
+  "votes": 2579,
+  "year": 2026
+ },
+ "below": {
+  "genres": "Action,Horror,Mystery",
+  "imdb": "tt0276816",
+  "kind": "m",
+  "name": "Below",
+  "rating": 6.1,
+  "runtime_min": 105,
+  "votes": 26930,
+  "year": 2002
+ },
+ "corpse bride": {
+  "genres": "Animation,Comedy,Drama",
+  "imdb": "tt0121164",
+  "kind": "m",
+  "name": "Corpse Bride",
+  "rating": 7.4,
+  "runtime_min": 77,
+  "votes": 334228,
+  "year": 2005
+ },
+ "death of a unicorn": {
+  "genres": "Comedy,Fantasy,Horror",
+  "imdb": "tt28443655",
+  "kind": "m",
+  "name": "Death of a Unicorn",
+  "rating": 5.8,
+  "runtime_min": 107,
+  "votes": 56870,
+  "year": 2025
+ },
+ "dhamaal 4": {
+  "genres": "Action,Adventure,Comedy",
+  "imdb": "tt27548557",
+  "kind": "m",
+  "name": "Dhamaal 4",
+  "rating": 6.6,
+  "runtime_min": 143,
+  "votes": 39472,
+  "year": 2026
+ },
+ "east of eden": {
+  "genres": "Drama",
+  "imdb": "tt0048028",
+  "kind": "m",
+  "name": "East of Eden",
+  "rating": 7.8,
+  "runtime_min": 118,
+  "votes": 51766,
+  "year": 1955
+ },
+ "evil dead burn": {
+  "genres": "Horror",
+  "imdb": "tt31170389",
+  "kind": "m",
+  "name": "Evil Dead Burn",
+  "rating": 6.2,
+  "runtime_min": 110,
+  "votes": 58887,
+  "year": 2026
+ },
+ "facing el chapo": {
+  "genres": "Action,Crime,Thriller",
+  "imdb": "tt39390497",
+  "kind": "m",
+  "name": "Facing El Chapo",
+  "rating": 6.7,
+  "runtime_min": 91,
+  "votes": 9486,
+  "year": 2026
+ },
+ "fukrey returns": {
+  "genres": "Comedy",
+  "imdb": "tt6712014",
+  "kind": "m",
+  "name": "Fukrey Returns",
+  "rating": 6.5,
+  "runtime_min": 141,
+  "votes": 7028,
+  "year": 2017
+ },
+ "how to train your dragon": {
+  "genres": "Action,Adventure,Animation",
+  "imdb": "tt0892769",
+  "kind": "m",
+  "name": "How to Train Your Dragon",
+  "rating": 8.1,
+  "runtime_min": 98,
+  "votes": 912064,
+  "year": 2010
+ },
+ "ice age": {
+  "genres": "Adventure,Animation,Comedy",
+  "imdb": "tt0268380",
+  "kind": "m",
+  "name": "Ice Age",
+  "rating": 7.5,
+  "runtime_min": 81,
+  "votes": 574393,
+  "year": 2002
+ },
+ "ice age collision course": {
+  "genres": "Action,Adventure,Animation",
+  "imdb": "tt3416828",
+  "kind": "m",
+  "name": "Ice Age: Collision Course",
+  "rating": 5.7,
+  "runtime_min": 94,
+  "votes": 88693,
+  "year": 2016
+ },
+ "ice age continental drift": {
+  "genres": "Adventure,Animation,Comedy",
+  "imdb": "tt1667889",
+  "kind": "m",
+  "name": "Ice Age: Continental Drift",
+  "rating": 6.5,
+  "runtime_min": 88,
+  "votes": 247484,
+  "year": 2012
+ },
+ "ice age dawn of the dinosaurs": {
+  "genres": "Adventure,Animation,Comedy",
+  "imdb": "tt1080016",
+  "kind": "m",
+  "name": "Ice Age: Dawn of the Dinosaurs",
+  "rating": 6.9,
+  "runtime_min": 94,
+  "votes": 290702,
+  "year": 2009
+ },
+ "ice age the meltdown": {
+  "genres": "Adventure,Animation,Comedy",
+  "imdb": "tt0438097",
+  "kind": "m",
+  "name": "Ice Age: The Meltdown",
+  "rating": 6.8,
+  "runtime_min": 91,
+  "votes": 323194,
+  "year": 2006
+ },
+ "love is blind": {
+  "genres": "Reality-TV,Romance",
+  "imdb": "tt11704040",
+  "kind": "s",
+  "name": "Love Is Blind",
+  "rating": 6.2,
+  "runtime_min": 60,
+  "votes": 13689,
+  "year": 2020
+ },
+ "mandaadi": {
+  "genres": "Action,Drama,Sport",
+  "imdb": "tt36596965",
+  "kind": "m",
+  "name": "Mandaadi",
+  "rating": 8.1,
+  "runtime_min": 154,
+  "votes": 11365,
+  "year": 2026
+ },
+ "the diplomat": {
+  "genres": "Drama,Thriller",
+  "imdb": "tt17491088",
+  "kind": "s",
+  "name": "The Diplomat",
+  "rating": 8.1,
+  "runtime_min": 50,
+  "votes": 104203,
+  "year": 2023
+ },
+ "the great indian kapil show": {
+  "genres": "Comedy,Talk-Show",
+  "imdb": "tt30003786",
+  "kind": "s",
+  "name": "The Great Indian Kapil Show",
+  "rating": 6.5,
+  "runtime_min": 60,
+  "votes": 36290,
+  "year": 2024
+ },
+ "the storm": {
+  "genres": "Action,Drama,History",
+  "imdb": "tt1230194",
+  "kind": "m",
+  "name": "The Storm",
+  "rating": 6.2,
+  "runtime_min": 96,
+  "votes": 3294,
+  "year": 2009
+ },
+ "the trap": {
+  "genres": "Crime,Drama,Thriller",
+  "imdb": "tt0478813",
+  "kind": "m",
+  "name": "The Trap",
+  "rating": 7.9,
+  "runtime_min": 106,
+  "votes": 11055,
+  "year": 2007
+ },
+ "tomb raider": {
+  "genres": "Action,Adventure,Fantasy",
+  "imdb": "tt1365519",
+  "kind": "m",
+  "name": "Tomb Raider",
+  "rating": 6.3,
+  "runtime_min": 119,
+  "votes": 245032,
+  "year": 2018
+ },
+ "tyson": {
+  "genres": "Biography,Documentary,Sport",
+  "imdb": "tt1032821",
+  "kind": "m",
+  "name": "Tyson",
+  "rating": 7.4,
+  "runtime_min": 90,
+  "votes": 13258,
+  "year": 2008
+ },
+ "unabomber": {
+  "genres": "Biography,Crime,Drama",
+  "imdb": "tt6933238",
+  "kind": "m",
+  "name": "Unabomber",
+  "rating": 6.2,
+  "runtime_min": 97,
+  "votes": 33638,
+  "year": 2026
+ }
+}

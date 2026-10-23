@@ -1,0 +1,15 @@
+{
+ "meta": {
+  "id": "tt31049299",
+  "type": "movie",
+  "name": "Animals",
+  "genres": [
+   "Action",
+   "Crime",
+   "Drama"
+  ],
+  "imdbRating": "5.7",
+  "year": 2026,
+  "runtime": "106 min"
+ }
+}

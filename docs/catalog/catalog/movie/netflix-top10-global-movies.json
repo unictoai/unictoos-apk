@@ -1,0 +1,111 @@
+{
+ "metas": [
+  {
+   "id": "tt31049299",
+   "type": "movie",
+   "name": "Animals",
+   "releaseInfo": "2026",
+   "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+   ],
+   "imdbRating": "5.7"
+  },
+  {
+   "id": "tt3416828",
+   "type": "movie",
+   "name": "Ice Age: Collision Course",
+   "releaseInfo": "2016",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Animation"
+   ],
+   "imdbRating": "5.7"
+  },
+  {
+   "id": "tt1080016",
+   "type": "movie",
+   "name": "Ice Age: Dawn of the Dinosaurs",
+   "releaseInfo": "2009",
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy"
+   ],
+   "imdbRating": "6.9"
+  },
+  {
+   "id": "tt0268380",
+   "type": "movie",
+   "name": "Ice Age",
+   "releaseInfo": "2002",
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy"
+   ],
+   "imdbRating": "7.5"
+  },
+  {
+   "id": "tt0121164",
+   "type": "movie",
+   "name": "Corpse Bride",
+   "releaseInfo": "2005",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Drama"
+   ],
+   "imdbRating": "7.4"
+  },
+  {
+   "id": "tt26047818",
+   "type": "movie",
+   "name": "Anyone But You",
+   "releaseInfo": "2023",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "imdbRating": "6.1"
+  },
+  {
+   "id": "tt1667889",
+   "type": "movie",
+   "name": "Ice Age: Continental Drift",
+   "releaseInfo": "2012",
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy"
+   ],
+   "imdbRating": "6.5"
+  },
+  {
+   "id": "tt6933238",
+   "type": "movie",
+   "name": "UNABOMBER",
+   "releaseInfo": "2026",
+   "genres": [
+    "Biography",
+    "Crime",
+    "Drama"
+   ],
+   "imdbRating": "6.2"
+  },
+  {
+   "id": "tt0438097",
+   "type": "movie",
+   "name": "Ice Age: The Meltdown",
+   "releaseInfo": "2006",
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy"
+   ],
+   "imdbRating": "6.8"
+  }
+ ]
+}

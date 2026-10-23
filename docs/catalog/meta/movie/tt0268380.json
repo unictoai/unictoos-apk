@@ -1,0 +1,15 @@
+{
+ "meta": {
+  "id": "tt0268380",
+  "type": "movie",
+  "name": "Ice Age",
+  "genres": [
+   "Adventure",
+   "Animation",
+   "Comedy"
+  ],
+  "imdbRating": "7.5",
+  "year": 2002,
+  "runtime": "81 min"
+ }
+}

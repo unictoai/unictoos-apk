@@ -1,0 +1,60 @@
+{
+ "metas": [
+  {
+   "id": "tt0276816",
+   "type": "series",
+   "name": "Below",
+   "releaseInfo": "2002",
+   "genres": [
+    "Action",
+    "Horror",
+    "Mystery"
+   ],
+   "imdbRating": "6.1"
+  },
+  {
+   "id": "tt30003786",
+   "type": "series",
+   "name": "The Great Indian Kapil Show",
+   "releaseInfo": "2024",
+   "genres": [
+    "Comedy",
+    "Talk-Show"
+   ],
+   "imdbRating": "6.5"
+  },
+  {
+   "id": "tt0478813",
+   "type": "series",
+   "name": "The Trap",
+   "releaseInfo": "2007",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "imdbRating": "7.9"
+  },
+  {
+   "id": "tt0048028",
+   "type": "series",
+   "name": "East of Eden",
+   "releaseInfo": "1955",
+   "genres": [
+    "Drama"
+   ],
+   "imdbRating": "7.8"
+  },
+  {
+   "id": "tt17491088",
+   "type": "series",
+   "name": "The Diplomat",
+   "releaseInfo": "2023",
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "imdbRating": "8.1"
+  }
+ ]
+}
